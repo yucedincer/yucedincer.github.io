@@ -35,9 +35,11 @@ urls:
     - text: About Me
       url: /about/
     - text: My Projects
-      url: /projects/  
-    - text: XML Feed
-      url: /feed.xml
+      url: /projects/
+    - text: Resume
+      url: /resume/    
+    # - text: XML Feed
+    #   url: /feed.xml
 
 url: "https://yucedincer.github.io"
 baseurl: ""
