@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I spent the last 9 years doing business development for AT&T, Salesforce & HackerRank working with companies that ranged from small startups to large enterprises by partnering with their C suite and solving business challenges with technology. 
 
-email: agus[at]python.web.id
+I'm looking forward to utilizing my business domain knowledge in combination with technical skills to help companies generate more revenue as well as become more efficient.
+
+
+
+email: yucedincer[at]gmail.com
