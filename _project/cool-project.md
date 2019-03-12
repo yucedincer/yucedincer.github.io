@@ -1,6 +1,7 @@
 ---
 layout: project_single
-title:  "Cool Project"
+title:  "Formula 1, a Visualization Project"
 slug: "cool-project"
 ---
-Just a demo text for now, which signifies there is lot of scope for improvement.
+<iframe src="https://nycdatascience.com/blog/student-works/formula-1-history/">
+</iframe>

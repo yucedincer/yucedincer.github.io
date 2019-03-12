@@ -2,7 +2,7 @@
 	{
 		"slug": "cool-project",
 		"name": "Cool project 1",
-		"image": "placeholder.jpg",
+		"image": "f1.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2019",
 		// "tags": ["Angular JS","API"]
@@ -14,6 +14,7 @@
 		"date": "May 2014",
 		"tags": ["Python","Django"]
 	},
+
 	{
 		"name": "Cool project 3",
 		"image": "placeholder.jpg",
