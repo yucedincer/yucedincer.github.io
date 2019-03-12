@@ -37,7 +37,7 @@ urls:
     - text: My Projects
       url: /projects/
     - text: Resume
-      url: /resume.html/    
+      url: /resume/    
     # - text: XML Feed
     #   url: /feed.xml
 
