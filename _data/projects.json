@@ -3,7 +3,7 @@
 		"slug": "f1",
 		"name": "Formula 1 Visualization Project",
 		"image": "f1.jpg",
-		"url": "https://www.google.com",
+		// "url": "https://www.google.com",
 		"date": "Jan 2019",
 		// "tags": ["Angular JS","API"]
 	},
