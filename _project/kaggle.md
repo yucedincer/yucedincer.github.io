@@ -53,7 +53,7 @@ I wanted to scrape both the top Kernels page as well as the user profiles who su
 
 Once the data was cleaned, the first step was to take a look at the correlation between the numbers in the data to see what I should be focusing on in my analysis.
 
-![image-title-here](k_heatmap.png){:class="img-responsive"}
+![Heatmap](k_heatmap.png){:class="img-responsive"}
 
 As expected, the vote count and the comment count are directly correlated. I thought about including the follower count of users in this analysis but decided against it because only the handful of top users have a decent number of followers and even those numbers are too small to be meaningful.
 
