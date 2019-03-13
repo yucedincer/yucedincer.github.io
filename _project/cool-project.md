@@ -1,7 +1,7 @@
 ---
 layout: project_single
 title:  "Formula 1, a Visualization Project"
-slug: "f1"
+slug: "cool-project"
 ---
 It was the year 1906 when 32 racing drivers of Automobile Club de France started their engines at a 65-mile course near Le Mans and competed to drive under the checkered flag ahead of every other driver in the race. The average speed of the winning car, a Renault, was 62.8 mph.
 From that humble start, Formula One racing was born. Throughout the years, it became the pinnacle of automobile technology where every part of the machine got pushed to new heights, whether it's the engine technology, tire technology or aerodynamics. This technological boom unquestionably contributed to the evolution of our standard,  slower cars. Car racing grew to be one of the most popular sports in the world, garnering attention from millions of fans and an array of sponsors.

@@ -1,9 +1,9 @@
 [
 	{
-		"slug": "f1",
+		"slug": "cool-project",
 		"name": "Formula 1 Visualization Project",
 		"image": "f1.jpeg",
-		"permalink": "cool-project",
+		"url": "cool-project.md",
 		"date": "Jan 2019"
 	},
 	{
