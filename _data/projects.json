@@ -3,11 +3,8 @@
 		"slug": "f1",
 		"name": "Formula 1 Visualization Project",
 		"image": "f1.jpeg",
-		"title": "cool-project",
-		"permalink": "/cool-project/",
-		// "url": "http://www.yucedincer.com/resume/",
+		"url": "cool-project.md",
 		"date": "Jan 2019",
-		// "tags": ["Angular JS","API"]
 	},
 	{
 		"name": "Cool project 2",
