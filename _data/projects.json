@@ -4,7 +4,8 @@
 		"name": "Formula 1 Visualization Project",
 		"image": "f1.jpeg",
 		// "url": "f1project",
-		"date": "Jan 2019"
+		"date": "Jan 2019",
+		"tags": ["R", "Shiny", "Visualization"]
 	},
 	{
 		"name": "Cool project 2",
