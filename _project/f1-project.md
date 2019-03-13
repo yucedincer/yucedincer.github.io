@@ -28,7 +28,6 @@ I built this visualization web-app to introduce you to the Formula 1 world. This
 * F1 driver helmets are amongst the toughest things in the world. During tests, the helmets are subjected to 800-degree flames for 40 minutes.
 * Lastly, F1 cars are incredibly strong. In 1977, David Purley was involved in a crash where the impact was estimated at 197.8g. In other words, his car went from 108 mph to a complete standstill in 2 seconds.
 
-
 ### Couple things to know for the best experience in the app:
 
 
