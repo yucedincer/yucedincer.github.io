@@ -16,7 +16,7 @@ layout: default
       {% assign p_slug_arr = p_slug | split:"," %}
       {% assign p_array = p_array | push: p_slug_arr  %}
     {% endfor %}
-
+<!-- : url('/static/projects/{{ i.image }}') -->
     <div class="projects">
       {% include project_tags.html %}
       
@@ -24,7 +24,7 @@ layout: default
       <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
         <div class="project-inner">
           <a href="/static/projects/{{ i.image }}" class="thickbox">
-            <div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
+            <div class="project-img bordered" style="background-image;"></div>
           </a>
           {% assign p_url = nil %}
           {% for pr in p_array %}
