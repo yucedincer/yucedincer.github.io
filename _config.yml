@@ -3,7 +3,7 @@ description: My Personal Reading & Watching
 author: Rifat Yuce Dincer
 github: https://github.com/yucedincer
 about: I'm a business development exec turned data scientist who codes in Python & R and enjoys scaring the data. I geek out on gastronomy, motorcycles and snowboarding.
-disqus_shortname: stackproblems
+# disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
