@@ -83,9 +83,9 @@ Another surprising result. For visualizations,the  Kaggle community prefers R ov
 In the last part of my analysis, I wanted to create a map of the locations for the top 1000  Kaggle users. Normally, this is an interactive map, and the interactive part will be updated later in the blog. In the second part of my project, I will be doing a deeper dive and create more maps that show where different user groups (based on their Kaggle status) contribute to Kaggle.
 
 #### To be investigated further: (with more data)
-How does the follower & following count impacts the distribution of votes & comments a user receives?
-More detailed user tier distribution
-Distribution of vote count per user tier and why Tier 4 users collect more votes per kernel?
-Why kernels written in R collect more votes compared to kernels written in R? Are there outlier kernels that have an impact on this finding?
-Why the R users create more visualizations compared to Python users?
-The distribution of user types from each country. For example, are more kernel experts to be found in the USA or in India? 
+* How does the follower & following count impacts the distribution of votes & comments a user receives?
+* More detailed user tier distribution
+* Distribution of vote count per user tier and why Tier 4 users collect more votes per kernel?
+* Why kernels written in R collect more votes compared to kernels written in R? Are there outlier kernels that have an impact on this finding?
+* Why the R users create more visualizations compared to Python users?
+* The distribution of user types from each country. For example, are more kernel experts to be found in the USA or in India? 
