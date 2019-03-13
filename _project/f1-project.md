@@ -10,7 +10,7 @@ One can easily say that Formula 1 satisfies our need of seeing technology at its
 
 I built this visualization web-app to introduce you to the Formula 1 world. This project focuses on the history of Formula 1 as well as the driver metrics, from the first drivers to the most current ones. They are the real daredevils in this story who's been putting their lives on the line since the first days.
 
-###Here are some interesting facts about Formula 1 to get your appetite wet before you click the app link below.
+### Here are some interesting facts about Formula 1 to get your appetite wet before you click the app link below.
 
 * The average cost of an F1 car is $10 million.
 * An average F1 team has an annual budget of $120 million.
@@ -24,7 +24,7 @@ I built this visualization web-app to introduce you to the Formula 1 world. This
 * F1 driver helmets are amongst the toughest things in the world. During tests, the helmets are subjected to 800-degree flames for 40 minutes.
 * Lastly, F1 cars are incredibly strong. In 1977, David Purley was involved in a crash where the impact was estimated at 197.8g. In other words, his car went from 108 mph to a complete standstill in 2 seconds.
 
-###Couple things to know for the best experience in the app:
+### Couple things to know for the best experience in the app:
 * Do watch the video on the welcome page if you've never seen a Formula 1 race. Even for just a couple minutes. It will give you a taste of what Formula 1 is about.
 * Drivers tab includes graphs on most successful drivers, most successful countries as well as performance data of all Formula 1 drivers in the history of F1.
 * Standings tab will provide you with race-specific info. Please select a season first and then a race. If you see "Inf" in any of the info boxes, that means that I didn't have the data for that race. If so, try selecting a newer race.
