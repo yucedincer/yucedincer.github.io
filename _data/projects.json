@@ -8,11 +8,12 @@
 		"tags": ["R", "Shiny", "Visualization"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python"]
+		"slug": "kaggle",
+		"name": "Kaggle Popularity",
+		"image": "kaggle.jpeg",
+		// "url": "#",
+		"date": "Feb 2019",
+		"tags": ["Python", "Visualization", "Data Analysis", "Web Scraping"]
 	},
 
 	{
