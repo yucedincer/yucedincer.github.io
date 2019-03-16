@@ -18,12 +18,10 @@ Ok, so now you have the subject locked in. What about the body of the email?
 
 One thing I feel like a lot of people don't think about is that many people read emails on their cell phones. Now the email you're sending from your laptop might look good & short on your email client, but if the receipient sees this email on their smart phone, it may look like 100 pages long. Think about the last time you received a long email that spanned pages and pages, how did this make you feel? Now multiply that feeling with 100. That's how executives feel on a daily basis.
 
-Also consider that people receive 100s of emails every day. What makes your email so important compared to other emails the receipient is receiving throught out the day? Think about this hard and then compose your email.
+Also consider that people receive 100s of emails every day. What makes your email so important compared to other emails the receipient is receiving throughout the day? Think about this hard and then compose your email.
 
-There are a lot other things to think about, such as the time you send the email. Based on my experiences, emails that are sent late Sunday nights or very early in the morning, before 7a, gets the most reads, at least from senior executives. Those are the times that people aren't bombarding them with phone calls or they're stuck in meetings. Those are the times the executives are getting ready for the work and if you can send an email with a catchy subject line, it will probably be looked at. Now, will it be responded? Most likely not, but the chance to receive a response is higher. That's at least was the case in my work experience. 
+There are a lot other things to think about, such as the time you send the email. Based on my experiences, emails that are sent late Sunday nights or very early in the morning, before 7a, gets the most reads, at least from senior executives. Those are the times that people aren't bombarding them with phone calls or they're stuck in meetings. Those are the times the executives are getting ready for the work and if you can send an email with a catchy subject line, it will probably be looked at. Now, will it be responded? Most likely not, but the chance to receive a response is higher. That's at least was the case in my own experience. 
 
-So, to summarise: Send short and to the point emails, avoid generic filler words, and make everything very clear. Don't try to sugarcoat things. Say what you want to say, or ask what you want to ask for. Be respectful to their time.
-
-You don't want to sound like another sales person! These executives have more than enough of those!
+So, to summarise: Send short and to the point emails, avoid generic filler words, and make everything very clear. Don't try to sugarcoat things. Write the email, read it before sending it, then try to shorten it. Once that's done, do it again. And again. You get the point hopefully.
 
 Cheers
